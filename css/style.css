@@ -479,13 +479,15 @@ img{
 }
 
 .mobile-menu .logo {
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 99;
-    border-right: 1px solid #ececec;
-    padding: 13px 0;
-    padding-right: 24px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 99;
+  border-right: 1px solid #ececec;
+  /* padding: 13px 0;
+  padding-right: 24px; */
 }
 
 /*** 
