@@ -2,7 +2,7 @@
 
 这是本人的个人博客仓库，欢迎直接拉取。
 
-**KEY**:HTML,JS,CSS
+**Languages**:HTML,JS,CSS
 
 ## 说明
 
